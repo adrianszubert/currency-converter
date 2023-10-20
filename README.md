@@ -1,7 +1,7 @@
 # Hello! I'm Adrian Szubert  
 
 - ## Description 📝
-The website below is my very first JavaScript-based project published on GitHub:
+The website below is my very first JavaScript-based project published on GitHub
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Currency converter](https://adrianszubert.github.io/currency-converter/index.html)
 
